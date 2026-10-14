@@ -275,10 +275,10 @@ indygo-on-time-performance/
 
 **Team Ready2Go**
 
-- Soon-Hyuck Lee — Team Leader
+- Soon-Hyuck Lee — UX Designer
 - Abhay Singh — Visualization Developer
-- Pratham Dedhiya — Data Analyst
-- **Yash Vyas — UX Designer & QA**
+- Pratham Dedhiya — QA
+- **Yash Vyas —  Data Analyst**
 
 **Project Sponsor:** Satya Sarfare, Business Data Analyst working with IndyGo
 
