@@ -4,9 +4,6 @@ An interactive **Power BI dashboard** for analyzing IndyGo bus on-time performan
 
 This project was created as part of an **Indiana University Information Visualization client project**. The dashboard was designed to make transit performance easier to explore for riders, planners, and other stakeholders through interactive filtering, trend analysis, route-level comparisons, and stop-level geographic views.
 
-> **My primary role:** UX Designer & QA  
-> I focused on dashboard usability, information hierarchy, navigation, visual consistency, validation, and quality assurance.
-
 ---
 
 ## Dashboard Preview
@@ -286,33 +283,3 @@ indygo-on-time-performance/
 **Project Sponsor:** Satya Sarfare, Business Data Analyst working with IndyGo
 
 ---
-
-## Screenshots
-
-To use the screenshot placeholders in this README, create a `screenshots` folder in the repository and save the images using these names:
-
-```text
-screenshots/
-├── main-dashboard.png
-├── trends-dashboard.png
-├── route-level-dashboard.png
-├── stop-level-dashboard.png
-└── faq-dashboard.png
-```
-
-GitHub will automatically render the images in the corresponding sections above.
-
----
-
-## Notes
-
-This repository is intended to showcase the dashboard design, analytical workflow, and Power BI implementation. If an online Power BI version is unavailable, the PBIX file can be opened locally in Power BI Desktop and the screenshots above provide a preview of the major dashboard views.
-
----
-
-## Author
-
-**Yash Vyas**  
-Data Scientist | Machine Learning | Generative AI | Analytics
-
-[Portfolio](https://www.yashhvyass.com) · [LinkedIn](https://www.linkedin.com/in/yashhvyass)
